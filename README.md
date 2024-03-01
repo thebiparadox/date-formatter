@@ -1,2 +1,1 @@
-# date-formatter
-Created a date formatter for Bad Website's bootcamp
+Created a date formatter for Bad Website's bootcamp using [freeCodeCamp's curriculum](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-the-date-object-by-building-a-date-formatter/step-1)
